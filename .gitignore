@@ -1,0 +1,12 @@
+build/
+install/
+log/
+
+# VS Code 설정 및 대용량 DB 파일 제외
+.vscode/
+**/*.vc.db
+
+# 기타
+*.pyc
+__pycache__/
+EOL
