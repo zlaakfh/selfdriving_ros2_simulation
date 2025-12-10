@@ -2,6 +2,12 @@ build/
 install/
 log/
 
+ROS2-Autonomous-Driving-and-Navigation-SLAM-with-TurtleBot3/
+turtlebot3/
+turtlebot3_msgs/
+turtlebot3_simulations/
+DynamixelSDK/
+
 # VS Code 설정 및 대용량 DB 파일 제외
 .vscode/
 **/*.vc.db
